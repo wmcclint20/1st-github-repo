@@ -1,2 +1,2 @@
-# wmcclint20.github.io
+# 1st-github-repo
 This repository contains my work as a developer.
